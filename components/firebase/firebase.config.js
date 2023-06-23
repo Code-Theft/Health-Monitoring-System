@@ -29,12 +29,7 @@ import {
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-    apiKey: "AIzaSyAxhN0JcRHVWzDk3ZPAQ2Clg1pBzVk0jBQ",
-    authDomain: "healthms-1b955.firebaseapp.com",
-    projectId: "healthms-1b955",
-    storageBucket: "healthms-1b955.appspot.com",
-    messagingSenderId: "11079301207",
-    appId: "1:11079301207:web:c1d808386f0dc5f65b8b12"
+    //Add your APi key here
 };
 
 // Initialize Firebase
