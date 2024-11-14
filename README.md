@@ -3,7 +3,7 @@ An IOT based mobile application to monitor the vitals such as ECG, Body Temperat
 
 UI Design: [Figma](https://www.figma.com/file/2k3nB1VWpkEwkA4gmM3pjB/App-Design-(Padanam)?type=design&node-id=0%3A1&t=zoONViKr7hucSDKS-1) 
 
-<img src="assets/git/Artboard%201.png"  style="width:1000px">
+<img src="app/assets/git/Artboard%201.png"  style="width:1000px">
 
 ## Sensors Used
 
@@ -43,6 +43,6 @@ UI Design: [Figma](https://www.figma.com/file/2k3nB1VWpkEwkA4gmM3pjB/App-Design-
 
 
     
-<img src="assets/git/Hardware_setup.jpg" style="width:300px">
+<img src="app/assets/git/Hardware_setup.jpg" style="width:300px">
 
 
